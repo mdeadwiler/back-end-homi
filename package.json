@@ -1,0 +1,12 @@
+{
+  "name": "homi-back-end-final",
+  "version": "1.0.0",
+  "description": "Deployed [database on Heroku.](https://homi-456b248c7f0d.herokuapp.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
